@@ -1,7 +1,7 @@
 pandas
 numpy
 matplotlib
-#seaborn
+seaborn
 scipy
-#statsmodels
+statsmodels
 streamlit
