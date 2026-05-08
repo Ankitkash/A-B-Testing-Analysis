@@ -2,7 +2,6 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-ab-testing.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A complete end-to-end A/B testing project using Python — from data cleaning and EDA to hypothesis testing, confidence intervals, and sample size calculation. Deployed as a live interactive web app using Streamlit.
 
