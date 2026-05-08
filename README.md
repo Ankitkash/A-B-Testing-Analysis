@@ -1,6 +1,6 @@
-# 🧪 A/B Testing Analysis — Landing Page Conversion
+# 🧪 A/B Testing Analysis
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-ab-testing.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/?utm_source=streamlit&utm_medium=referral&utm_campaign=main&utm_content=-ss-streamlit-io-topright)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
 
 A complete end-to-end A/B testing project using Python — from data cleaning and EDA to hypothesis testing, confidence intervals, and sample size calculation. Deployed as a live interactive web app using Streamlit.
@@ -9,7 +9,7 @@ A complete end-to-end A/B testing project using Python — from data cleaning an
 
 ## 🌐 Live Demo
 
-👉 **[Open Streamlit App](https://share.streamlit.io/-/build/assets/support_tickets-BE90L2li.jpg)**
+👉 **[Open Streamlit App](https://share.streamlit.io/?utm_source=streamlit&utm_medium=referral&utm_campaign=main&utm_content=-ss-streamlit-io-topright)**
 
 > Replace the link above with your actual Streamlit Cloud URL after deployment.
 
