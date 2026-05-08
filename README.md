@@ -9,7 +9,7 @@ A complete end-to-end A/B testing project using Python — from data cleaning an
 
 ## 🌐 Live Demo
 
-👉 **[Open Streamlit App](https://your-username-ab-testing.streamlit.app)**
+👉 **[Open Streamlit App](https://share.streamlit.io/-/build/assets/support_tickets-BE90L2li.jpg)**
 
 > Replace the link above with your actual Streamlit Cloud URL after deployment.
 
