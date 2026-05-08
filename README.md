@@ -11,7 +11,6 @@ A complete end-to-end A/B testing project using Python — from data cleaning an
 
 👉 **[Open Streamlit App](https://share.streamlit.io/?utm_source=streamlit&utm_medium=referral&utm_campaign=main&utm_content=-ss-streamlit-io-topright)**
 
-> Replace the link above with your actual Streamlit Cloud URL after deployment.
 
 ---
 
@@ -44,7 +43,6 @@ An e-commerce company wants to know whether a **new landing page** (treatment) l
 | `app.py`                    | Interactive Streamlit web app                                   |
 | `ab_testing_analysis.ipynb` | Detailed Jupyter notebook with step-by-step analysis & formulas |
 | `requirements.txt`          | Python dependencies                                             |
-| `.gitignore`                | Files excluded from Git                                         |
 
 ---
 
@@ -75,39 +73,6 @@ An e-commerce company wants to know whether a **new landing page** (treatment) l
 | Statistically Significant | ❌ No            |
 
 **Decision:** No significant difference found. Keep the control page.
-
----
-
-## 🚀 Run Locally
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/<your-username>/ab-testing-project.git
-cd ab-testing-project
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Download dataset
-
-Get `ab_data.csv` from [Kaggle](https://www.kaggle.com/datasets/zhangluyuan/ab-testing) and place it in the project folder.
-
-### 4. Run the Streamlit app
-
-```bash
-streamlit run app.py
-```
-
-Or open the notebook:
-
-```bash
-jupyter notebook ab_testing_analysis.ipynb
-```
 
 ---
 
